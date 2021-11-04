@@ -1,5 +1,5 @@
 // Two pointer algorithm using sorted array
-// Time Complexity: O(logn);
+// Time Complexity: O(nlogn);
 // Space Complexity: O(1);
 
 class Solution {
