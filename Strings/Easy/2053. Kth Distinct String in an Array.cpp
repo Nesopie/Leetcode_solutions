@@ -5,7 +5,6 @@ class Solution {
 public:
     string kthDistinct(vector<string>& arr, int k) {
         unordered_map<string, int> mymap;
-
         for(string str : arr) mymap[str]++;
 
         int counter = 0;
