@@ -28,7 +28,7 @@ public:
     }
 };
 
-// Two pointer Solution
+// Two Pointer Solution
 // Time complexity: O(n)
 // Space complexity: O(1)
 
