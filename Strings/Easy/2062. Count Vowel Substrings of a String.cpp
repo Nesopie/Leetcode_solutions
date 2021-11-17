@@ -22,7 +22,7 @@ public:
                 j = k = i + 1;
             }
         }
-
+        
         return counter;
     }
 };
