@@ -10,7 +10,6 @@ public:
             isJewel[x] = 1;
         }
 
-
         int numberOfJewels = 0;
 
         for(auto x : stones) {
